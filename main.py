@@ -25,6 +25,6 @@ image_renderer.draw_image(start_x, start_y)
 # clear_screen(canvas, config_data["window_width"], config_data["window_height"], config_data["pixel_size"], config_data["gap_size"], "red", 1)
 # clear
 # image_renderer.draw_wave_effect(start_x, start_y)
-
+# hi!!
 # Start the Tkinter event loop
 root.mainloop()
