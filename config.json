@@ -1,7 +1,7 @@
 {
-    "window_width": 1920,
-    "window_height": 1080,
-    "pixel_size": 10,
+    "window_width": 800,
+    "window_height": 800,
+    "pixel_size": 8,
     "gap_size": 0
   }
   
